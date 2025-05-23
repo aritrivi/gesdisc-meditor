@@ -29,8 +29,6 @@ const config = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     editUrl:
                         'https://git.earthdata.nasa.gov/projects/MEDITOR/repos/meditor/browse/docs',
-                    docLayoutComponent: '@theme/DocPage',
-                    docItemComponent: '@theme/ApiItem',
                 },
                 blog: false,
                 // blog: {

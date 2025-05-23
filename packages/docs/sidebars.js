@@ -38,7 +38,7 @@ const sidebars = {
                 slug: '/api',
             },
             // @ts-ignore
-            items: require('./docs/meditor-api/sidebar.js'),
+            items: require('./docs/meditor-api/sidebar.ts'),
         },
     ],
 }
